@@ -1,14 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\juego de azar\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 2\\juego de azar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8F70C98-EBCD-4C09-A853-711263A68149}|juego de azar\\juego de azar.csproj|c:\\users\\dell\\source\\repos\\juego de azar\\juego de azar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E8F70C98-EBCD-4C09-A853-711263A68149}|juego de azar\\juego de azar.csproj|solutionrelative:juego de azar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 3\\juego de azar remotoForm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F70C98-EBCD-4C09-A853-711263A68149}|juego de azar\\juego de azar.csproj|c:\\users\\dell\\source\\repos\\juego de azar\\juego de azar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8F70C98-EBCD-4C09-A853-711263A68149}|juego de azar\\juego de azar.csproj|solutionrelative:juego de azar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\dell\\source\\repos\\maxwell_sanchez_fpi_2026_c2\\tarea 2\\juego de azar remotoform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +16,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\juego de azar\\juego de azar\\Form1.cs",
-              "RelativeDocumentMoniker": "juego de azar\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\juego de azar\\juego de azar\\Form1.cs",
-              "RelativeToolTip": "juego de azar\\Form1.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAkwFkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "juego de azar remotoForm1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 3\\juego de azar remotoForm1.cs",
+              "RelativeDocumentMoniker": "..\\..\\tarea 3\\juego de azar remotoForm1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 3\\juego de azar remotoForm1.cs",
+              "RelativeToolTip": "..\\..\\tarea 3\\juego de azar remotoForm1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAK0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T16:28:12.876Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\juego de azar\\juego de azar\\Form1.cs",
-              "RelativeDocumentMoniker": "juego de azar\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\juego de azar\\juego de azar\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "juego de azar\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "juego de azar remotoForm1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 2\\juego de azar remotoForm1.cs",
+              "RelativeDocumentMoniker": "..\\juego de azar remotoForm1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 2\\juego de azar remotoForm1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\juego de azar remotoForm1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T15:33:27.648Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-06-12T18:52:24.947Z"
             }
           ]
         }
