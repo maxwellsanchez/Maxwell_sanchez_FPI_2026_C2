@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCewRt1gxFo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\Default Project\\RiskApp\\RiskApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
