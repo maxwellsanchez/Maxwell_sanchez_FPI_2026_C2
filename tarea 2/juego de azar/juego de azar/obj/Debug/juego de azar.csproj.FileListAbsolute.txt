@@ -1,0 +1,23 @@
+C:\Users\DELL\source\repos\juego de azar\juego de azar\bin\Debug\juego de azar.exe.config
+C:\Users\DELL\source\repos\juego de azar\juego de azar\bin\Debug\juego de azar.exe
+C:\Users\DELL\source\repos\juego de azar\juego de azar\bin\Debug\juego de azar.pdb
+C:\Users\DELL\source\repos\juego de azar\juego de azar\obj\Debug\juego de azar.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\juego de azar\juego de azar\obj\Debug\juego_de_azar.Form1.resources
+C:\Users\DELL\source\repos\juego de azar\juego de azar\obj\Debug\juego_de_azar.Properties.Resources.resources
+C:\Users\DELL\source\repos\juego de azar\juego de azar\obj\Debug\juego de azar.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\juego de azar\juego de azar\obj\Debug\juego de azar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\juego de azar\juego de azar\obj\Debug\juego de azar.exe
+C:\Users\DELL\source\repos\juego de azar\juego de azar\obj\Debug\juego de azar.pdb
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\bin\Debug\juego de azar.exe.config
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\bin\Debug\juego de azar.exe
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\bin\Debug\juego de azar.pdb
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\obj\Debug\juego de azar.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\obj\Debug\juego_de_azar.Form1.resources
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\obj\Debug\juego_de_azar.Properties.Resources.resources
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\obj\Debug\juego de azar.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\obj\Debug\juego de azar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\obj\Debug\juego de azar.exe
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\obj\Debug\juego de azar.pdb
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\bin\Debug\M2Mqtt.Net.dll
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 2\juego de azar\juego de azar\obj\Debug\juego de.BD4EBB76.Up2Date
