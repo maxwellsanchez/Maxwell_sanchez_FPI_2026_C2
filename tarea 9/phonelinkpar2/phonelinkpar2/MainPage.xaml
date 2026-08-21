@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="phonelinkpar2.MainPage"
+             Title="Chat MQTT - MAUI">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="Cliente MQTT (.NET MAUI)" 
+                   FontSize="22" 
+                   FontAttributes="Bold" 
+                   HorizontalOptions="Center" />
+
+            <Button x:Name="BtnConectar" 
+                    Text="Conectar al Broker MQTT" 
+                    Clicked="OnConectarClicked" 
+                    BackgroundColor="#512BD4" 
+                    TextColor="White" />
+
+            <Entry x:Name="TxtMensaje" 
+                   Placeholder="Escribe un mensaje para la PC..." />
+
+            <Button Text="Enviar Mensaje a la PC" 
+                    Clicked="OnEnviarClicked" 
+                    BackgroundColor="#2B0B98" 
+                    TextColor="White" />
+
+            <Label Text="Mensajes recibidos desde la PC:" 
+                   FontAttributes="Bold" 
+                   Margin="0,10,0,0"/>
+
+            <Editor x:Name="TxtChat" 
+                    HeightRequest="250" 
+                    IsReadOnly="True" 
+                    BackgroundColor="#F0F0F0" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

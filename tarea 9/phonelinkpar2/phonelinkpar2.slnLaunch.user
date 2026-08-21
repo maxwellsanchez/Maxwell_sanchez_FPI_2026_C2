@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "phonelinkpar2\\phonelinkpar2.csproj",
+        "Action": "Start",
+        "DebugTarget": "Windows Machine"
+      },
+      {
+        "Path": "..\\phonelink\\conexion al celular\\conexion al celular.csproj",
+        "Action": "Start",
+        "DebugTarget": "conexion al celular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4DF43D-B27C-4DEC-8684-B3F3702F09E9}|conexion al celular\\conexion al celular.csproj|c:\\users\\dell\\source\\repos\\maxwell_sanchez_fpi_2026_c2\\tarea 9\\phonelink\\conexion al celular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4DF43D-B27C-4DEC-8684-B3F3702F09E9}|conexion al celular\\conexion al celular.csproj|solutionrelative:conexion al celular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelink\\conexion al celular\\Program.cs",
+              "RelativeDocumentMoniker": "conexion al celular\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelink\\conexion al celular\\Program.cs",
+              "RelativeToolTip": "conexion al celular\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:01:18.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

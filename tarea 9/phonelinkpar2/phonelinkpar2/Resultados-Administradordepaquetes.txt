@@ -1,0 +1,15 @@
+﻿Restaurando paquetes para C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelinkpar2\phonelinkpar2\phonelinkpar2.csproj...
+  CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2026.08.20.05.43.44/vulnerability.base.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2026.08.20.05.43.44/2026.08.21.11.43.50/vulnerability.update.json
+Instalando el paquete NuGet MQTTnet 5.2.0.1603.
+Escribiendo el archivo de recursos en el disco. Ruta de acceso: C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelinkpar2\phonelinkpar2\obj\project.assets.json
+'MQTTnet 5.2.0.1603' se instaló correctamente en phonelinkpar2
+La ejecución de acciones de NuGet tardó 253 ms
+Tiempo transcurrido: 00:00:01.1835056
+========== Finalizado ==========
+
+Tiempo transcurrido: 00:00:00.1751203
+========== Finalizado ==========
+
+

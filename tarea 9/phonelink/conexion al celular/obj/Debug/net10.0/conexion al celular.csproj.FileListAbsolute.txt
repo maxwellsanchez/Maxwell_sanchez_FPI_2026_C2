@@ -1,0 +1,18 @@
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.sourcelink.json
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\bin\Debug\net10.0\conexion al celular.exe
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\bin\Debug\net10.0\conexion al celular.deps.json
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\bin\Debug\net10.0\conexion al celular.runtimeconfig.json
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\bin\Debug\net10.0\conexion al celular.dll
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\bin\Debug\net10.0\conexion al celular.pdb
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\bin\Debug\net10.0\MQTTnet.dll
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion.508EB9B4.Up2Date
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.dll
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\refint\conexion al celular.dll
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.pdb
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\conexion al celular.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Maxwell_sanchez_FPI_2026_C2\tarea 9\phonelink\conexion al celular\obj\Debug\net10.0\ref\conexion al celular.dll

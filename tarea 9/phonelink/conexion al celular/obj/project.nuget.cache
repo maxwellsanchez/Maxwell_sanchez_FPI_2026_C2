@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6iNqV9toWrE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelink\\conexion al celular\\conexion al celular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\mqttnet\\5.2.0.1603\\mqttnet.5.2.0.1603.nupkg.sha512"
+  ],
+  "logs": []
+}

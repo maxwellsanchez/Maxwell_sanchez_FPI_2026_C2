@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="phonelinkpar2" mvid="43e9f1b0917540fca1bb72b796fe98f4">
+  <java-to-managed>
+    <entry java-name="crc648e90b4937174e0b7/MainActivity" managed-name="phonelinkpar2.MainActivity, phonelinkpar2" managed-type-token-id="33554441" />
+    <entry java-name="crc648e90b4937174e0b7/MainApplication" managed-name="phonelinkpar2.MainApplication, phonelinkpar2" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc648e90b4937174e0b7/MainActivity" managed-name="phonelinkpar2.MainActivity, phonelinkpar2" managed-type-token-id="33554441" />
+    <entry java-name="crc648e90b4937174e0b7/MainApplication" managed-name="phonelinkpar2.MainApplication, phonelinkpar2" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>

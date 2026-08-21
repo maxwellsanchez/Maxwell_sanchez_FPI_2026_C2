@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelinkpar2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C0DA98-8385-1DFF-FBEE-96B19B39353A}|..\\phonelink\\conexion al celular\\conexion al celular.csproj|c:\\users\\dell\\source\\repos\\maxwell_sanchez_fpi_2026_c2\\tarea 9\\phonelink\\conexion al celular\\conexion al celular.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3E7116-60C8-4272-9F28-0C19694522E8}|phonelinkpar2\\phonelinkpar2.csproj|c:\\users\\dell\\source\\repos\\maxwell_sanchez_fpi_2026_c2\\tarea 9\\phonelinkpar2\\phonelinkpar2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F3E7116-60C8-4272-9F28-0C19694522E8}|phonelinkpar2\\phonelinkpar2.csproj|solutionrelative:phonelinkpar2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3E7116-60C8-4272-9F28-0C19694522E8}|phonelinkpar2\\phonelinkpar2.csproj|c:\\users\\dell\\source\\repos\\maxwell_sanchez_fpi_2026_c2\\tarea 9\\phonelinkpar2\\phonelinkpar2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3E7116-60C8-4272-9F28-0C19694522E8}|phonelinkpar2\\phonelinkpar2.csproj|solutionrelative:phonelinkpar2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "conexion al celular",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelink\\conexion al celular\\conexion al celular.csproj",
+              "RelativeDocumentMoniker": "..\\phonelink\\conexion al celular\\conexion al celular.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelink\\conexion al celular\\conexion al celular.csproj",
+              "RelativeToolTip": "..\\phonelink\\conexion al celular\\conexion al celular.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-21T19:48:50.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelinkpar2\\phonelinkpar2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "phonelinkpar2\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelinkpar2\\phonelinkpar2\\MainPage.xaml.cs",
+              "RelativeToolTip": "phonelinkpar2\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:29:37.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelinkpar2\\phonelinkpar2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "phonelinkpar2\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Maxwell_sanchez_FPI_2026_C2\\tarea 9\\phonelinkpar2\\phonelinkpar2\\MainPage.xaml",
+              "RelativeToolTip": "phonelinkpar2\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-21T19:27:46.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

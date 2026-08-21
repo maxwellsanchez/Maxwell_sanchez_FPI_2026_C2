@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../phonelink/conexion al celular/conexion al celular.csproj" />
+  <Project Path="phonelinkpar2/phonelinkpar2.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
